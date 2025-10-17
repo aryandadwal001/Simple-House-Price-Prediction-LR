@@ -1,7 +1,7 @@
 # Simple House Price Prediction using Linear Regression
 
 ## Project Overview 
-This repository contains a basic, end-to-end machine learning project that uses **Linear Regression** to predict house sale prices. The model focuses on the relationship between house characteristics—specifically **Square Footage** (`GrLivArea`), **Number of Bedrooms** (`BedroomAbvGr`), and a derived **Total Bathrooms** feature—and the final sale price.
+This repository contains a basic, end-to-end machine learning project that uses **Linear Regression** to predict house sale prices. The model focuses on the relationship between house characteristics specifically **Square Footage** (`GrLivArea`), **Number of Bedrooms** (`BedroomAbvGr`), and a derived **Total Bathrooms** feature and the final sale price.
 
 It serves as an excellent starting point for understanding the core concepts of supervised learning, feature selection, model training, and performance evaluation.
 
